@@ -1,0 +1,62 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/dotnet/vscode-csharp/blob/main/debugger-launchjson.md
+            "name": "Sandbox 2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-Sandbox2-app",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/Sandbox2/app/bin/Debug/net8.0/app.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Sandbox2/app",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/dotnet/vscode-csharp/blob/main/debugger-launchjson.md
+            "name": "HelloWorldWeek1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-HelloWorldWeek1",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/HelloWorldWeek1/bin/Debug/net8.0/HelloWorldWeek1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/HelloWorldWeek1",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/dotnet/vscode-csharp/blob/main/debugger-launchjson.md
+            "name": "Sandbox 2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-Sandbox",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/Sandbox/bin/Debug/net8.0/Sandbox.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Sandbox",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}

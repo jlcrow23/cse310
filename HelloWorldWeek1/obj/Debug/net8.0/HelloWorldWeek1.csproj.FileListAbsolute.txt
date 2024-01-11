@@ -1,0 +1,15 @@
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\HelloWorldWeek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\HelloWorldWeek1.AssemblyInfoInputs.cache
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\HelloWorldWeek1.AssemblyInfo.cs
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\HelloWorldWeek1.csproj.CoreCompileInputs.cache
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\HelloWorldWeek1.sourcelink.json
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\bin\Debug\net8.0\HelloWorldWeek1.exe
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\bin\Debug\net8.0\HelloWorldWeek1.deps.json
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\bin\Debug\net8.0\HelloWorldWeek1.runtimeconfig.json
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\bin\Debug\net8.0\HelloWorldWeek1.dll
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\bin\Debug\net8.0\HelloWorldWeek1.pdb
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\HelloWorldWeek1.dll
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\refint\HelloWorldWeek1.dll
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\HelloWorldWeek1.pdb
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\HelloWorldWeek1.genruntimeconfig.cache
+C:\Users\taeli\OneDrive\Documents\BYUI\CSE 310\cse310\HelloWorldWeek1\obj\Debug\net8.0\ref\HelloWorldWeek1.dll
